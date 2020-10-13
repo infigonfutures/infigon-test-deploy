@@ -1,0 +1,287 @@
+Science;Medical;MBBS
+Science;Medical;BHMS (Homeopathy)
+Science;Medical;BAMS (Ayurveda)
+Science;Medical;BUMS (Unani)
+Science;Medical;BDS (Dental Surgery)
+Science;Medical;B.Sc. (Naturopathy)
+Science;Medical;B.Sc. AH (Veterinary Science)
+Science;Medical;B.Sc. (Botany / Zoology / Chemistry)
+Science;Medical;B.Sc. (Microbiology)
+Science;Medical;B.Sc. (Biotechnology)
+Science;Medical;B.Sc. (Biochem)
+Science;Medical;B.Sc. (Biomedical Science)
+Science;Medical;B.Sc. (Forensic Science)
+Science;Medical;B.Sc. (Genetics)
+Science;Medical;B.Sc. (Nursing)
+Science;Medical;B.PT. (Physiotherapy)
+Science;Medical;B.Pharmacy
+Science;B.Sc;B.Sc. (Agriculture)
+Science;B.Sc;B.Sc. (Horticulture)
+Science;B.Sc;B.Sc. (Environmental Science)
+Science;B.Sc;B.F.Sc. (Fisheries Sciences)
+Science;B.Sc;B.Sc. MLT (Medical Technology)
+Science;B.Sc;B.Sc. (Occupational Therapists)
+Science;B.Sc;B.Sc. (Audiology)
+Science;B.Sc;B.Sc. (Speech and Language Pathology)
+Science;B.Sc;B.Sc. (Human Biology)
+Science;B.Sc;B.Sc. (Radiography)
+Science;B.Sc;B.Sc. (Rehabiliation Therapy)
+Science;B.Sc;B.Sc. (Food Technology)
+Science;B.Sc;B.Sc. (Nutrition and Dietics)
+Science;B.Sc;B.Sc. (Dairy Technology)
+Science;B.Sc;B.Sc. (Anthropology)
+Science;B.Sc;B.Sc. (Home Science)
+Science;B.Sc;B.Sc. (Psychology)
+Science;B.Sc;Intregrated M.Sc. (Psychology)
+Science;Engineering;B. Tech (Computer Science)
+Science;Engineering;B.Tech. (I.T)
+Science;Engineering;B.Tech. (Mechanical) 
+Science;Engineering;B.Tech. (Chemical)
+Science;Engineering;B.Tech (Electrical)
+Science;Engineering;B.Tech (Telecommunication)
+Science;Engineering;B.Tech. (Civil)
+Science;Engineering;B.Arch (Architecture)
+Science;Engineering;B.Tech. (Data Sciences)
+Science;Engineering;B.Sc. (Pure Sciences from IISER)
+Science;Engineering;B.Sc. (Computer Sciences)
+Science;Engineering;B.Sc. (IT)
+Science;Engineering;B.Tech. (Production)
+Science;Engineering;B.Tech. (Aerospace Engineering)
+Science;Engineering;B.Tech. (Software)
+Science;Engineering;B.Tech. (Automobile)
+Science;Engineering;B.Tech. (Avionics)
+Science;Engineering;Bach. In Naval Architecture
+Science;Engineering;B.Tech. (Mining)
+Science;Engineering;B.Tech (Mechatronics)
+Science;Engineering;B.Tech. (Nanotechnology)
+Science;Engineering;Aircraft Maintenance Engineering
+Science;Engineering;B.Sc. (Physics / Chemistry / Maths)
+Science;Engineering;BCA (Computer Applications)
+Science;Engineering;B.Tech (Environmental)
+Science;Engineering;B.Tech. (Power)
+Science;Engineering;B.Tech. (Industrial)
+Science;Engineering;B.Tech. (Instrumentaional)
+Science;Engineering;B.Tech. (Metallurgical)
+Science;Engineering;B.Tech. (Manufacturing)
+Science;Engineering;B.Tech. (Mineral)
+Science;Others;Defense (NDA)
+Science;Others;Commercial Pilot Course
+Science;Others;BS 
+Science;Others;B.Sc. (Interior Designing)
+Science;Others;B.Sc. (Astronomy)
+Science;Others;B.Sc. (Statistics)
+Science;Others;B.Design (Visual Design)
+Science;Others;Higher National Diploma Marine Engineering)
+Science;Others;B.Design (Animation)
+Science;Others;Bach. In Fashion Technology
+Science;Others;B.Sc. (Nautical Sciences)
+Science;Others;BEE (Early Career Program)
+Science;Others;B.Pharmacy
+Science;Others;B.Sc. (Economics)
+Science;Others;B.Sc. (Geology)
+Science;Others;Bach. In Construction Tech.
+Science;Others;B.Sc. (Liberal Arts)
+Science;Others;Diploma in Engineering (Computer, I.T, Telecommunication, Electronics etc.)
+Science;Others;Computer Hardware
+Science;Others;Application Software Development
+Science;Others;Hospital & Healthcare Management
+Science;Others;Physical Medicine and Rehabilitation
+Science;Others;Nutrition and Dietics
+Science;Others;Nursing
+Science;Others;Textile Designing
+Science;Others;Web Designing
+Science;Others;Fashion Designing
+Science;Others;Dress Designing
+Science;Others;Animation and Multimedia
+Science;Others;Air Hostess/Crew
+Science;Others;Software and Networking
+Science;Others;Foreign Languages
+Diploma;Science;Diploma in Physiotherapy
+Diploma;Science;Diploma in Medical Lab Technology
+Diploma;Science;Diploma in Radiological Technology
+Diploma;Science;Diploma in Electrical Engineering
+Diploma;Science;Diploma in Mechanical Engineering
+Diploma;Science;Diploma in Civil Engineering
+Diploma;Science;Diploma in Chemical Engineering
+Diploma;Science;Diploma in Biotechnology
+Diploma;Science;Diploma in Nutrition and Dietetics
+Diploma;Science;Diploma in Nursing
+Diploma;Arts;Diploma in Interior Designing
+Diploma;Arts;Diploma in 3D Animation
+Diploma;Arts;Diploma in Multimedia
+Diploma;Arts;Diploma in Advertising and Marketing
+Diploma;Arts;Diploma in Event Management
+Diploma;Arts;Diploma in Sound Recording
+Diploma;Arts;Diploma in Photography
+Diploma;Arts;Diploma in Various Languages
+Diploma;Arts;Diploma in Travel & Tourism
+Diploma;Commerce;Diploma in Banking and Finance
+Diploma;Commerce;Diploma in Accounting and Finance
+Diploma;Commerce;Diploma in Computerised Accounting
+Diploma;Commerce;Diploma in Fashion Designing
+Diploma;Commerce;Diploma in Computer Application
+Diploma;Commerce;Diploma in Yoga
+Diploma;Commerce;Diploma in Banking
+Diploma;Commerce;Diploma in Financial Accounting
+Diploma;Commerce;Diploma in Industrial Safety
+Diploma;Commerce;Diploma in Business Management
+Diploma;Commerce;Diploma in Retail Management
+Diploma;Commerce;Diploma in Hotel Management
+Diploma;Commerce;Diploma in Interior Designing
+Diploma;Commerce;Diploma in 3D Animation
+Diploma;Commerce;Diploma in Multimedia
+Diploma;Commerce;Diploma in Advertising and Marketing
+Diploma;Commerce;Diploma in Event Management
+Diploma;Commerce;Diploma in Sound Recording
+Diploma;Commerce;Diploma in Photography
+Diploma;Commerce;Diploma in Various Languages
+Diploma;Commerce;Diploma in Travel & Tourism
+Vocational;Science;Certificate in Water Harvesting and Management
+Vocational;Science;Certificate in Food and Nutrition
+Vocational;Science;Certificate in Sericulture
+Vocational;Science;Certificate in Organic Farming
+Vocational;Science;Certificate in Poultry Farming
+Vocational;Science;Certificate in Laboratory Techniques
+Vocational;Science;Certificate in Naturopathy and Yogic Sciences
+Vocational;Science;Certificate in Beekeeping
+Vocational;Science;Certificate in Clinical Psychology
+Vocational;Science;PG Certificate in Agriculture Policy
+Vocational;Science;ANM (Auxiliary Nursing Midwifery)
+Vocational;Science;Certificate in Child Psychology
+Vocational;Science;Certificate in Environmental Studies
+Vocational;Science;PG Certificate in Geoinformatics
+Vocational;Science;Certificate in First Aid
+Vocational;Science;Certificate in Geriatric Care Assistance
+Vocational;Science;Certificate in Home Based Healthcare
+Vocational;Science;Certificate in Maternal and Child Health Nursing
+Vocational;Science;Certificate in Newborn and Infant Nursing
+Vocational;Science;Certificate in Phlebotomy Assistance
+Vocational;Science;PG Certificate in Acupuncture
+Vocational;Science;Certificate in General Duty Assistance
+Vocational;Science;Certificate in Communication & IT Skills
+Vocational;Science;Certificate in Information Technology
+Vocational;Science;Certificate in Computer Application
+Vocational;Science;Certificate in Web Designing
+Vocational;Arts;PG Certificate in Gandhi and Peace Studies
+Vocational;Arts;Certificate in Library and Information Science
+Vocational;Arts;Certificate in Police Administration
+Vocational;Arts;Certificate in HIV and Family Education
+Vocational;Arts;Advanced Certificate Course in Ancient Indian History
+Vocational;Arts;Certificate in Buddhist Studies
+Vocational;Arts;Certificate in Life and Thoughts of Dr. BR Ambedkar
+Vocational;Arts;Certificate in Rural Development
+Vocational;Arts;Certificate in Tribal Studies
+Vocational;Arts;Certificate in Social Work
+Vocational;Arts;Certificate in Public Relations
+Vocational;Arts;Certificate in Social Work in Criminal Justice System
+Vocational;Arts;Certificate in Disaster Management
+Vocational;Arts;Certificate in Anti-Human Trafficking
+Vocational;Arts;Certificate in Cooperative Law and Business Laws
+Vocational;Arts;Certificate in Consumer Protection
+Vocational;Arts;Certificate in International and Humanitarian Law
+Vocational;Arts;Certificate in Human Rights
+Vocational;Arts;PG Certificate in Patent Practice
+Vocational;Arts;PG Certificate in Cyber Law
+Vocational;Arts;Certificate in Guidance
+Vocational;Arts;Certificate in Value Education
+Vocational;Arts;Certificate in Teaching of English
+Vocational;Arts;PG Certificate in Adult Education
+Vocational;Arts;Telugu Pandits Training (Andhra and Telangana)
+Vocational;Arts;PG Certificate in Assistive Technologies for Visually Impaired
+Vocational;Arts;Certificate in Community Radio
+Vocational;Arts;Certificate in Acting
+Vocational;Arts;Certificate in Anchoring
+Vocational;Arts;Certificate in Journalism & Mass Communication
+Vocational;Arts;Certificate in Radio Jockeying
+Vocational;Arts;Certificate in Digital Content Management
+Vocational;Arts;Certificate in Introduction to Film Making
+Vocational;Arts;Certificate in Photography
+Vocational;Arts;Certificate in Animation
+Vocational;Arts;Certificate in Dance
+Vocational;Arts;Certificate in Violin
+Vocational;Arts;Certificate in Veena
+Vocational;Arts;Certificate in Vocal
+Vocational;Arts;Certificate in Bharatanatyam
+Vocational;Arts;Certificate in Hindustan Music
+Vocational;Arts;Certificate in Karnatic Music
+Vocational;Arts;Certificate in Theatre Arts
+Vocational;Arts;Certificate in Applied Arts
+Vocational;Arts;Certificate in Painting
+Vocational;Arts;Certificate in Urdu
+Vocational;Arts;Certificate in the Arabic Language
+Vocational;Arts;Certificate in the Russian Language
+Vocational;Arts;Certificate in Spanish Language & Culture
+Vocational;Arts;PG Certificate in Malayalam-Hindi Translation
+Vocational;Arts;Certificate in Spoken Tamil
+Vocational;Arts;Certificate in French/ Italian/ Korean/ Japanese/ Persian
+Vocational;Arts;Certificate in Sanskrit
+Vocational;Arts;Certificate in Tibetan Language & Literature
+Vocational;Arts;PG Certificate in Bangla-Hindi Translation
+Vocational;Arts;Certificate in Korean Language & Literature
+Vocational;Arts;Certificate in Spoken English
+Vocational;Arts;Certificate in Functional English
+Vocational;Commerce;Certification Course in Tally
+Vocational;Commerce;Certification Course in Banking
+Vocational;Commerce;Certification Course in Stock Market
+Vocational;Commerce;Certification Course in Financial Accounting & Taxation
+Vocational;Commerce;Certificate in Business Skills
+Vocational;Commerce;Certificate in NGO Management
+Vocational;Commerce;Certificate in Retail Management
+Vocational;Commerce;Certificate in Event Management
+Vocational;Commerce;Certificate in Office Management
+Arts;Arts;BA in Humanities & Social Sciences
+Arts;Arts;BA in Fine Arts
+Arts;Arts;BA in Visual arts
+Arts;Arts;BA in Performing Arts
+Arts;Arts;Des and BA in Design
+Arts;Arts;Bachelor of Fine Arts (BFA)
+Arts;Arts;BSc BHM / BA in Hospitality Camp; Travel
+Arts;Arts;Fashion Design
+Arts;Arts;LLB
+Arts;Arts;Management Courses
+Arts;Arts;Bachelor of Journalism / Mass Communication (BJMC), BJ / BMMl
+Commerce;Commerce;B.Com.
+Commerce;Commerce;BMS
+Commerce;Commerce;BBA
+Commerce;Commerce;CA (Chartered Accountancy)
+Commerce;Commerce;B.M.M (Mass Media)
+Commerce;Commerce;BBS (Business Studies)
+Commerce;Commerce;CS (Company Secretary)
+Commerce;Commerce;BBM (Business Management)
+Commerce;Commerce;B.H.M (Hotel Management)
+Commerce;Commerce;B.F.M (Financial Management)
+Commerce;Commerce;Actuarial Science
+Commerce;Commerce;B.E.M. (Event Management)
+Commerce;Commerce;B.B.I (Banking and Insurance)
+Commerce;Commerce;B.Com. (Taxation)
+Commerce;Commerce;B.E (Economics)
+Commerce;Commerce;B.Com. (Marketing)
+Commerce;Commerce;B.F.A (Finance and Accounting)
+Commerce;Commerce;B.Com.(Computer Applications)
+Commerce;Commerce;B.Com. (Foreign Trade Management)
+Commerce;Commerce;B.Com. (Cost Accountancy)
+Commerce;Commerce;CFA (Chartered Financial Analyst)
+Commerce;Commerce;B.Com. (Information Technology)
+Commerce;Commerce;CFP (Chartered Financial Planner)
+Commerce;Commerce;B.Sc. Applied Maths
+Commerce;Commerce;B.Com. (Financial Market)
+Commerce;Commerce;B.Com. (Business Economics)
+Commerce;Commerce;B.Com. (Applied Economics)
+Commerce;Commerce;B.Com. (Capital Market)
+Commerce;Commerce;B.S.W (Social Work)
+Commerce;Commerce;B.Com. (Professional)
+Commerce;Commerce;B.Com. (International Business)
+Commerce;Commerce;B.Com. (Investment Management)
+Commerce;Commerce;B.Sc. Statistics
+Commerce;Commerce;B.Com. (E-Commerce)
+Commerce;Commerce;B.F.D. (Fashion Design)
+Commerce;Commerce;B.Com. (Co-Operation)
+Commerce;Commerce;B.Com. (Supply Chain Management)
+Commerce;Commerce;B.Com. (Tourism and Travel Management)
+Commerce;Commerce;CMA
+Commerce;Commerce;B.P.Ed. (Physical Education)
+Commerce;Commerce;B.Sc. Animation and Multimedia
+Commerce;Commerce;B.Voc.
+Commerce;Commerce;B.El.Ed. (Elementary Education)
+Commerce;Commerce;D.El.Ed. (Diploma in Elementary Education)
+Commerce;Commerce;Integrated Law Course

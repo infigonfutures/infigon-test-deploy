@@ -1,0 +1,17 @@
+MBBS
+BHMS (Homeopathy)
+BAMS (Ayurveda)
+BUMS (Unani)
+BDS (Dental Surgery)
+B.Sc. (Naturopathy)
+B.Sc. AH (Veterinary Science)
+B.Sc. (Botany / Zoology / Chemistry)
+B.Sc. (Microbiology)
+B.Sc. (Biotechnology)
+B.Sc. (Biochem)
+B.Sc. (Biomedical Science)
+B.Sc. (Forensic Science)
+B.Sc. (Genetics)
+B.Sc. (Nursing)
+B.PT. (Physiotherapy)
+B.Pharmacy

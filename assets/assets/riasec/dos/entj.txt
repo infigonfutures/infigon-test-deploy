@@ -1,0 +1,17 @@
+1. Business 
+2. Banking and Financial Services 
+3. Management 
+4. Architecture 
+5. Engineering 
+6. Life, Physical and Social Sciences 
+7. Arts 
+8. Media 
+9. Healthcare/Medical
+10. Education and Training 
+11. Sports 
+12. Entertainment 
+13. IT 
+14. Construction 
+15. Law 
+16. Fashion 
+17. Design

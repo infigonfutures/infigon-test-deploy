@@ -1,0 +1,10 @@
+1. IT 
+2. Engineering 
+3. Science and Technology 
+4. Economics 
+5. Business 
+6. Law 
+7. Arts 
+8. Architecture 
+9. Costruction 
+10. Pharmaceuticals

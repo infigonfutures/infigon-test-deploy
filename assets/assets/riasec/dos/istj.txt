@@ -1,0 +1,21 @@
+1. Business 
+2. Banking and Financial Services 
+3. Office and Administration 
+4. Management 
+5. Architecture 
+6. Engineering 
+7. Life, Physical and Social Sciences 
+8. Agriculture/Forestry 
+9. Aquaculture 
+10. Services 
+11. Food 
+12. Entertainment 
+13. Sports 
+14. Healthcare/Medical 
+15. Construction 
+16. Media 
+17. Education and training 
+18. IT
+19. Law 
+20. Community and Social Service 
+21. Defense 

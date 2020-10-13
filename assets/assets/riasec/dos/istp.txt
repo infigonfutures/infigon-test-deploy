@@ -1,0 +1,15 @@
+1. Engineering
+2. Aviation 
+3. Defence 
+4. Economics 
+5. Banking and Financial Services 
+6. Food 
+7. Designing 
+8. Management 
+9. Office and Administration 
+10. IT 
+11. Agriculture/Forestry 
+12. Science and Technology 
+13. Electronics 
+14. Biotechnology 
+15. Architecture

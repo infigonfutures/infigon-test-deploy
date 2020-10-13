@@ -1,0 +1,8 @@
+Science;Engineering;Mumbai;B.Tech;SPIT;UG
+Science;Engineering;Mumbai;B.Tech;IIT;UG
+Science;Engineering;Mumbai;B.Tech;VJTI;UG
+Science;Engineering;Mumbai;B.Sc;Somaiya;UG
+Commerce;Engineering;Mumbai;B.Com;Mithibai;UG
+Commerce;Commerce;Mumbai;B.Com;NM;UG
+Commerce;Management;Mumbai;BBA;NMIMS;UG
+Science;HSC;Andheri;HSC;Bhavans;JC

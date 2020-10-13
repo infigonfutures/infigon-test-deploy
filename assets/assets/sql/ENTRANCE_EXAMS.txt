@@ -1,0 +1,290 @@
+Science;Engineering;IIT;JEE (Mains) + JEE (Advanced)
+Science;Engineering;NITs, IIITs;JEE (Mains)
+Science;Engineering;BITS;BITSAT
+Science;Engineering;SRM University;SRMJEE
+Science;Engineering;VIT;VITEEE
+Science;Engineering;MIT;MET
+Science;Engineering;NMIMS Engineering;NPAT
+Science;Engineering;IISER;IISER Aptitude Test
+Science;Engineering;Any State College;CET (Of Respective State)
+Science;Engineering;AIIMS;NEET
+Science;Engineering;SLIET;SLIET SET
+Science;Engineering;Jagannath University;JUEE
+Science;Engineering;IEM;IEMJEE
+Science;Engineering;Dayanand Sagar;DSAT
+Science;Engineering;DAV University;DAVUET
+Science;Engineering;Forest Research Institute;FRIMSC
+Science;Engineering;Symbiosis;SET
+Science;Engineering;Quantum University;Q Care
+Science;Engineering;SOAU;SAAT
+Science;Engineering;IMU;IMU CET
+Science;Engineering;Jain University;Jain Entrance Test
+Science;Engineering;Sharda University;SUAT
+Science;Engineering;CUSAT;CUSAT CAT
+Science;Engineering;LPU;LPU NEST
+Science;Engineering;Vels University;VUEEE
+Science;Engineering;Aliah University;AUAT
+Science;Medical;JIPMER College;JIPMER
+Science;Medical;BHU;BHU-PMT (Screening) + BHU-PMT Main
+Science;Medical;Christian Medical College;CMCET
+Science;Medical;IPU;IPU-CET
+Science;Medical;MIT;MET
+Science;Medical;COMEDK Colleges;COMEDK UGET
+Science;Medical;VIT;VITEEE
+Science;Medical;Any State College;NEET / CET (Of Respective State)
+Science;Medical;MDU;MDUCET
+Science;Medical;JNU;JN-UCEEB
+Commerce;Management;National Colleges;CMAT
+Commerce;Management;GMAC;NMAT
+Commerce;Management;Xavier College;XAT
+Commerce;Management;GMAC;GMAT
+Commerce;Management;IPU;IPUCET
+Commerce;Management;Bharatiya Vidyapeeth;BUMAT
+Commerce;Management;AIMS;ATMA
+Commerce;Management;ICFAI;IBSAT
+Commerce;Management;Purvanchal University;PUCAT
+Commerce;Management;AKNU;AKNUCET
+Commerce;Management;MGU;MGUCET
+Commerce;Management;Jagannath University;JUEE
+Commerce;Management;Aliah University;AUAT
+Commerce;Management;IEM;IEMJEE
+Commerce;Management;Integral University;IUET
+Commerce;Management;Central University;CUCET
+Commerce;Management;CMRU;CMRUAT
+Commerce;Management;SPS;SPSAT
+Arts;Law;IPU;IPUCET
+Arts;Law;NLUs;CLAT
+Arts;Law;TISS;TISSNET
+Arts;Law;Cochin University;CUSAT
+Arts;Law;Benaras Hind University;BHU UET
+Arts;Law;MGU;MGU CAT
+Arts;Law;UPES;ULSAT
+Arts;Law;Jagannath University;JUEE
+Arts;Law;Jamia Milia Islamiya;JMI
+Arts;Law;Aliah University;AUAT
+Arts;Law;CMRU;CMRUAT
+Arts;Law;SRM University;SRMHCAT
+Arts;Law;AISECT;AJEE
+Arts;Law;Dibrugarh University;DUEE
+Arts;Law;Integral University;IUET
+Arts;Law;PES;PESSAT
+Arts;Law;Alliance University;ACLAT
+Arts;Law;Sharda University;SUAT
+Arts;Law;LPU;LPU NEST
+Arts;Law;Jindal Global;LSAT
+Arts;Law;Vels University;VEE
+Science;Pharmacy;BITS;BITSAT
+Science;Pharmacy;Maharshi Dayanand University;MDUCEE
+Science;Pharmacy;AMPAI;CEE AMPAI
+Science;Pharmacy;Integral University;IUET
+Science;Pharmacy;PES;PESSAT
+Science;Architecture;NIT;JEE (Main)
+Science;Architecture;IIT;JEE (Advanced)
+Science;Architecture;State Colleges;NATA
+Science;Architecture;HITS;HITSEEE
+Science;Architecture;ICAR;ICAR AIEE
+Arts;Designing;Any State College;CEED
+Arts;Designing;NIFT, NID;NIFT
+Arts;Designing;IIT;AIEED
+Arts;Designing;SOFT;SOFT CET
+Arts;Designing;GLS Institute of Design;GLS DAT
+Arts;Designing;IICD;IICD
+Arts;Designing;Symbiosis;SET
+Arts;Designing;FDD;FDDIAIST
+Arts;Designing;Vels University;VEE
+Arts;Designing;Sharda University;SUAT
+Arts;Designing;NMIMS;NPAT
+Arts;Designing;IIAD;IIAD
+Commerce;Hotel Management;NCHM;NCHMCT JEE
+Commerce;Hotel Management;SOAU;SAAT
+Commerce;Hotel Management;Central University;CUCET
+Commerce;Hotel Management;AIHM;AIHMCT
+Commerce;Hotel Management;AIMA;AIMA UGAT
+Commerce;Hotel Management;Quantum University;Q Care
+Commerce;Hotel Management;LPU;LPU NEST
+Commerce;Hotel Management;Vels University;VEE
+Commerce;Hotel Management;GNIHM;GNIHM
+Arts;Mass Communications;IPU;IPU CET
+Arts;Mass Communications;Xavier College;XIC OET
+Arts;Mass Communications;IIMC;IIMC Exam
+Arts;Mass Communications;FTII;FTII Entrance Exam
+Arts;Mass Communications;Kalinga Insitute;KIITEE
+Arts;Mass Communications;Sharda University;SUAT
+Arts;Mass Communications;ACJ;ACJ Entrance Exam
+Vocational;Vocational Courses;IPU;IPU CET
+Vocational;Vocational Courses;CUSAT;CUSAT
+Vocational;Vocational Courses;BHU;BHU UET
+Vocational;Vocational Courses;NID,NIFT;AIEED
+Vocational;Vocational Courses;Central University;CUCET
+Vocational;Vocational Courses;IICD;IICD Examination
+Science;Science;IIT;JEE
+Science;Science;IIT;IIT-JAM
+Science;Science;IPU;IPUCET
+Science;Science;TISS;TISSNET
+Science;Science;NMIMS;NPAT
+Science;Science;WBUT;WBUT-PEG
+Science;Science;MDU;MDUCEE
+Science;Science;Central University;CUCET
+Science;Science;Purvanchal University;PUCAT
+Science;Science;SKU;SKU-CET
+Science;Science;AKNU;AKNUCET
+Science;Science;GITAM;GSAT
+Science;Science;MGU;MGU CAT
+Science;Science;SLIET;SLIET SET
+Science;Science;Jagannath University;JUEE
+Science;Science;JNU;JNUEEE
+Science;Science;IEM;IEMJEE
+Science;Science;Aliah University;AUAT
+Science;Science;YVU;YVUCET
+Science;Science;Dibrugarh University;DUEE
+Science;Science;IISER;IISER Aptitude Test
+Science;Science;KLEU;KLEU AIET
+Science;Science;AAU;AAU VET
+Science;Science;Osmania University;OUCET
+Science;Science;Dravidian University;DUCET
+Science;Science;UPES;UPES DAT
+Science;Science;Kalinga Insitute;KIITEE
+Science;Science;AIIMS;AIIMS
+Science;Science;LPU;LPU NEST
+Science;Science;Sharda University;SUAT
+Science;Science;Jain University;Jain Entrance Test
+Science;Science;SOAU;SAAT
+Science;Science;Benaras Hind University;BHU UET
+Science;Science;Rama University;RUET
+Science;Computer Applications;IIT;JEE
+Science;Computer Applications;IIT;IIT-JAM
+Science;Computer Applications;IPU;IPUCET
+Science;Computer Applications;TISS;TISSNET
+Science;Computer Applications;NMIMS;NPAT
+Science;Computer Applications;WBUT;WBUT-PEG
+Science;Computer Applications;MDU;MDUCEE
+Science;Computer Applications;Central University;CUCET
+Science;Computer Applications;Purvanchal University;PUCAT
+Science;Computer Applications;SKU;SKU-CET
+Science;Computer Applications;AKNU;AKNUCET
+Science;Computer Applications;GITAM;GSAT
+Science;Computer Applications;MGU;MGU CAT
+Science;Computer Applications;SLIET;SLIET SET
+Science;Computer Applications;Jagannath University;JUEE
+Science;Computer Applications;JNU;JNUEEE
+Science;Computer Applications;IEM;IEMJEE
+Science;Computer Applications;Aliah University;AUAT
+Science;Computer Applications;YVU;YVUCET
+Science;Computer Applications;Dibrugarh University;DUEE
+Science;Computer Applications;IISER;IISER Aptitude Test
+Science;Computer Applications;KLEU;KLEU AIET
+Science;Computer Applications;AAU;AAU VET
+Science;Computer Applications;Osmania University;OUCET
+Science;Computer Applications;Dravidian University;DUCET
+Science;Computer Applications;UPES;UPES DAT
+Science;Computer Applications;Kalinga Insitute;KIITEE
+Science;Computer Applications;AIIMS;AIIMS
+Science;Computer Applications;LPU;LPU NEST
+Science;Computer Applications;Sharda University;SUAT
+Science;Computer Applications;Jain University;Jain Entrance Test
+Science;Computer Applications;SOAU;SAAT
+Science;Computer Applications;Benaras Hind University;BHU UET
+Science;Computer Applications;Rama University;RUET
+Arts;Arts;IPU;IPU CET
+Arts;Arts;TISS;TISSNET
+Arts;Arts;NMIMS;NPAT
+Arts;Arts;Cochin University;CUCET
+Arts;Arts;Vels University;VEE
+Arts;Arts;Benaras Hind University;BHU UET
+Arts;Arts;MGU;MGU CAT
+Arts;Arts;Symbiosis;SUAT
+Arts;Arts;YVU;YVUCET
+Arts;Arts;JNU;JNUEEE
+Arts;Arts;AKNU;AKNUCET
+Arts;Arts;SKU;SKU-CET
+Arts;Arts;Purvanchal University;PUCAT
+Arts;Arts;Central University;CUCET
+Arts;Arts;Aliah University;AUAT
+Arts;Arts;CMRU;CMRUAT
+Arts;Arts;Dravidian University;DUCET
+Arts;Arts;Delhi University;DU JAT
+Arts;Arts;Dibrugarh University;DUEE
+Arts;Arts;Tezpur University;TUEE
+Arts;Arts;GLAU;GLAET
+Arts;Arts;TISS;TISS BAT
+Arts;Arts;Jain University;Jain Entrance Test
+Arts;Arts;Jindal Scholastic;JSAT
+Arts;Arts;Sharda University;SUAT
+Arts;Arts;Vels University;VEE
+Arts;Arts;Dayanand Sagar;DSAT
+Arts;Arts;Quantum University;Q CARE
+Arts;Education;IPU;IPU CET
+Arts;Education;TISS;TISSNET
+Arts;Education;NMIMS;NPAT
+Arts;Education;Cochin University;CUCET
+Arts;Education;Vels University;VEE
+Arts;Education;Benaras Hind University;BHU UET
+Arts;Education;MGU;MGU CAT
+Arts;Education;Symbiosis;SUAT
+Arts;Education;YVU;YVUCET
+Arts;Education;JNU;JNUEEE
+Arts;Education;AKNU;AKNUCET
+Arts;Education;SKU;SKU-CET
+Arts;Education;Purvanchal University;PUCAT
+Arts;Education;Central University;CUCET
+Arts;Education;Aliah University;AUAT
+Arts;Education;CMRU;CMRUAT
+Arts;Education;Dravidian University;DUCET
+Arts;Education;Delhi University;DU JAT
+Arts;Education;Dibrugarh University;DUEE
+Arts;Education;Tezpur University;TUEE
+Arts;Education;GLAU;GLAET
+Arts;Education;TISS;TISS BAT
+Arts;Education;Jain University;Jain Entrance Test
+Arts;Education;Jindal Scholastic;JSAT
+Arts;Education;Sharda University;SUAT
+Arts;Education;Vels University;VEE
+Arts;Education;Dayanand Sagar;DSAT
+Arts;Education;Quantum University;Q CARE
+Commerce;Commerce;National Colleges;CMAT
+Commerce;Commerce;GMAC;NMAT
+Commerce;Commerce;Xavier College;XAT
+Commerce;Commerce;GMAC;GMAT
+Commerce;Commerce;IPU;IPUCET
+Commerce;Commerce;Bharatiya Vidyapeeth;BUMAT
+Commerce;Commerce;AIMS;ATMA
+Commerce;Commerce;ICFAI;IBSAT
+Commerce;Commerce;Purvanchal University;PUCAT
+Commerce;Commerce;AKNU;AKNUCET
+Commerce;Commerce;MGU;MGUCET
+Commerce;Commerce;Jagannath University;JUEE
+Commerce;Commerce;Aliah University;AUAT
+Commerce;Commerce;IEM;IEMJEE
+Commerce;Commerce;Integral University;IUET
+Commerce;Commerce;Central University;CUCET
+Commerce;Commerce;CMRU;CMRUAT
+Commerce;Commerce;SPS;SPSAT
+Science;Agriculture;Kerala University;KEAM
+Science;Agriculture;Benaras Hind University;BHU UET
+Science;Agriculture;JNU;JNU CEEB
+Science;Agriculture;Centurion University;CUEE
+Science;Agriculture;Any University (Horticulture);HORTICET
+Science;Agriculture;AISECT;AAU VET
+Science;Agriculture;Bihar ITI;ITICAT
+Science;Agriculture;ITM;ITM NEST
+Science;Agriculture;SOAU;SAAT
+Science;Paramedical;ITM;ITM NEST
+Science;Paramedical;Integral University;IUET
+Science;Paramedical;AIIMS;AIIMS M.Sc
+Science;Veterinary Sciences;Benaras Hind University;BHU UET
+Science;Veterinary Sciences;JNU;JNU CEEB
+Science;Veterinary Sciences;Any University;AIPVT
+Science;Veterinary Sciences;MP Vyapam;MP Vyapam DAHET
+Science;Dental;Any University;NEET
+Science;Dental;Any University;NEET MDS
+Science;Dental;Rama University;RUET
+Science;Dental;Siksha O Anusadhan;SAAT
+Others;Study Abroad;Abroad;GMAT
+Others;Study Abroad;Abroad;IELTS
+Others;Study Abroad;Abroad;GRE
+Others;Study Abroad;Abroad;PTE
+Others;Study Abroad;Abroad;SAT
+Others;Study Abroad;Abroad;MELAB
+Others;Study Abroad;Abroad;MCAT
+Others;Study Abroad;Abroad;TOEIC
+Others;Study Abroad;Abroad;ACT

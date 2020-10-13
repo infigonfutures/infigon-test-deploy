@@ -1,0 +1,20 @@
+1. Community and Social Services 
+2. Life Physical and Social Services 
+3. Healthcare/Medical 
+4. Education and Training 
+5. Office and Administration 
+6. Services 
+7. Business 
+8. Banking and Financial Services 
+9. Manufacturing 
+10. Architecture 
+11. Engineering
+12. Construction 
+13. Defense 
+14. Law 
+15. Agriculture/Forestry 
+16. Aquaculture 
+17. Management 
+18. Accounting 
+19. Real Estate 
+20. Retail

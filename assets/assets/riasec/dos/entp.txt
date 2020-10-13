@@ -1,0 +1,13 @@
+1. Business 
+2. Banking and Financial Services 
+3. Architeture 
+4. Engineering 
+5. Science and Technology 
+6. Arts 
+7. Entertainment 
+8. Media 
+9. Law 
+10. Pharmaceuticals 
+11. Life, Physical and social Sciences 
+12. Real Estate 
+13. Sports 
