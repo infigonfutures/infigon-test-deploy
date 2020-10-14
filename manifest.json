@@ -1,6 +1,6 @@
 {
-    "name": "flutterWeb",
-    "short_name": "flutterWeb",
+    "name": "infigon_webapp",
+    "short_name": "infigon_webapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

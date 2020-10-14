@@ -1,5 +1,5 @@
 Science;Engineering;Mumbai;B.Tech;SPIT;UG
-Science;Engineering;Mumbai;B.Tech;IIT;UG
+Science;Engineering;Mumbai;B.Tech;IIT BomBay;UG
 Science;Engineering;Mumbai;B.Tech;VJTI;UG
 Science;Engineering;Mumbai;B.Sc;Somaiya;UG
 Commerce;Engineering;Mumbai;B.Com;Mithibai;UG

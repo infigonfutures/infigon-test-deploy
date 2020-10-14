@@ -1,0 +1,1109 @@
+Chartered Accountant;Accounting
+Chief Financial Officer;Accounting
+Finance Director;Accounting
+Chartered Management Accountant CMA;Accounting
+Economist;Accounting
+Financial Analyst;Accounting
+Company Secretary;Accounting
+Certified Financial Planner;Accounting
+Data Analyst;Accounting
+Forensic Accountancy;Accounting
+Financial Advisors;Accounting
+Treasury Analyst;Accounting
+Tax Manager;Accounting
+Accountant (Various types);Accounting
+Taxation (Various Applications);Accounting
+Academia;Accounting
+CIMA/CMA;Accounting
+ACCA;Accounting
+Auditing (Various Types);Accounting
+Corporate Controller;Accounting
+Credit Analysis Manager;Accounting
+Accounting Advisory (Various Types);Accounting
+Arbitration;Accounting
+Government Treasury Enforcement Agent;Accounting
+Government Financial Manager;Accounting
+Public Accountant;Accounting
+Financial Accountant;Accounting
+Financial Manager;Accounting
+Bill and Account Collector;Accounting
+Billing Clerk;Accounting
+Book keeping and Auditing Clerk;Accounting
+Accounting Technician;Accounting
+Chartered Accountant Technician;Accounting
+Astronauts;Aerospace
+Aerospace Scientists;Aerospace
+Aerospace Modelling Technicians;Aerospace
+Engineering Designers;Aerospace
+Technical Communicators;Aerospace
+Spacecraft Designer;Aerospace
+Aerospace Controls/Propulsion/Thermodynamics;Aerospace
+Avionics;Aerospace
+Energy Engineers;Aerospace
+Materials Specialist;Aerospace
+Mission/Payload Specialist;Aerospace
+Inspectors And Compliance Officers;Aerospace
+Data Processing Manager;Aerospace
+Agricultural Engineer;Agriculture/Forestry
+Food Technologist;Agriculture/Forestry
+Green Entrepreneur;Agriculture/Forestry
+Agricultural Research Scientist;Agriculture/Forestry
+Aquaculture Specialist;Agriculture/Forestry
+Nutrition Specialist;Agriculture/Forestry
+Forest Officer;Agriculture/Forestry
+Horticulturist;Agriculture/Forestry
+Floriculturist;Agriculture/Forestry
+Vet;Agriculture/Forestry
+Academia;Agriculture/Forestry
+Agriculture Finance Officer;Agriculture/Forestry
+Agronomist;Agriculture/Forestry
+Plantation Manager;Agriculture/Forestry
+Dairy Manager;Agriculture/Forestry
+Animal Husbandry;Agriculture/Forestry
+Technical Assistant  Biodiversity;Agriculture/Forestry
+Fisheries Manager;Agriculture/Forestry
+Aquaculture Consultant;Agriculture/Forestry
+Biotechnologist;Agriculture/Forestry
+Plant Pathologist;Agriculture/Forestry
+Tea Broker;Agriculture/Forestry
+Agricultural Manager;Agriculture/Forestry
+Fish Farmer;Agriculture/Forestry
+Agricultural Equipment Operators;Agriculture/Forestry
+Agriculture Inspectors;Agriculture/Forestry
+Academa;Agriculture/Forestry
+Agricultural Technician;Agriculture/Forestry
+Animal Control Workers;Agriculture/Forestry
+Animal Scientists;Agriculture/Forestry
+Nutrition Specialist;Aquaculture
+Aquaculture Specialist/Consultant;Aquaculture
+Fisheries Manager;Aquaculture
+Town Planner;Architecture
+VFX Artist;Architecture
+Interior Designer (Doc 2);Architecture
+Landscape Architect (Doc 2 );Architecture
+Design Architect;Architecture
+Product Designer (Doc 2);Architecture
+Structural/Site Planning Engineer;Architecture
+Geologist;Architecture
+Urban Designer;Architecture
+Restoration Architect;Architecture
+Historic Building Inspector/Conservation Officer;Architecture
+Planning and Development Surveyor;Architecture
+Project Manager;Architecture
+Sustainability Consultant;Architecture
+CAD Technician - Done;Architecture
+BIM Manager;Architecture
+Specifications Writer;Architecture
+Draughtsmen;Architecture
+Photography;Fine Arts
+Portrait;Fine Arts
+Wedding;Fine Arts
+Fashion;Fine Arts
+Traveller;Fine Arts
+Photojournalist;Fine Arts
+Wildlife;Fine Arts
+Music;Fine Arts
+Food;Fine Arts
+Designing;Fine Arts
+(Doc 2)Graphic Designer;Fine Arts
+(Doc 2)Web Designer;Fine Arts
+(Doc 2)Video Game Designer;Fine Arts
+(Doc 2)UX/UI Designer;Fine Arts
+Artist;Fine Arts
+Ceramic Artist;Fine Arts
+Sculptor;Fine Arts
+Makeup Artist;Fine Arts
+Digital Artist;Fine Arts
+Collage Artist;Fine Arts
+Glass Artist;Fine Arts
+Textile Artist;Fine Arts
+Painter;Fine Arts
+Craft Maker;Fine Arts
+Film and Cinematography;Fine Arts
+Music;Fine Arts
+Animation;Fine Arts
+Dance;Fine Arts
+Videography;Fine Arts
+Architecture;Fine Arts
+Dance;Fine Arts
+Conceptual Artist;Fine Arts
+Literature;Fine Arts
+Art Director;Fine Arts
+Painting and Drawing (Multiple Sub-Sections);Fine Arts
+Mosaics (Has multiple sub-sections);Fine Arts
+Printmaking and Imaging (Has multiple sub-sections);Fine Arts
+Calligraphy;Fine Arts
+Pottery;Fine Arts
+Art Conservation;Fine Arts
+Lapidartist;Fine Arts
+Illustration;Fine Arts
+Fashion Illustrator;Fine Arts
+Childrens books Illustrator;Fine Arts
+Medical Illustrator;Fine Arts
+Comic Book Illustrator;Fine Arts
+Film Storyboard Illustrator;Fine Arts
+Art Therapy;Fine Arts
+Cartographers;Fine Arts
+Graphic Designer (Doc 2);Visual Arts
+Illustrator (Doc 2);Visual Arts
+Interior Designer (Doc 2);Visual Arts
+VFX Specialist/Digital Compositions;Visual Arts
+Web Developer;Visual Arts
+Animation/Architect;Visual Arts
+Film Critic;Visual Arts
+Cartoonist;Visual Arts
+Caricaturist;Visual Arts
+Industrial Product Designer;Visual Arts
+Tattoo Artist;Visual Arts
+Motion Graphic Designer (Doc 2);Visual Arts
+Portrait Artist;Visual Arts
+Teaching;Visual Arts
+Artist (Many Types);Visual Arts
+Sketch Artist;Visual Arts
+Jewellery designer;Visual Arts
+Archivist;Visual Arts
+Art Editor;Visual Arts
+Art Gallery Director;Visual Arts
+Engraver;Visual Arts
+Exhibit Designer;Visual Arts
+Gallery Designer;Visual Arts
+All architect related things;Visual Arts
+Public Works Architect;Visual Arts
+Historic Preservation Specialist;Visual Arts
+Healthcare Design Specialist;Visual Arts
+Environment Systems Specialist;Visual Arts
+Building Pathology Specialist;Visual Arts
+Architectural Writer;Visual Arts
+Art Dealer;Visual Arts
+Art Curator;Visual Arts
+Muralist;Visual Arts
+Fiber Artist;Visual Arts
+Art Therapist;Visual Arts
+Storyboard Artist;Visual Arts
+Photojournalist;Visual Arts
+Art Preservationist;Visual Arts
+Antiques Dealer;Visual Arts
+Corporate Curator;Visual Arts
+Estate Appraiser;Visual Arts
+Film Restoration Artist;Visual Arts
+Journalistic Artis;Visual Arts
+Prop Maker;Visual Arts
+Story Editor;Visual Arts
+Lithographer;Visual Arts
+Display Artist;Visual Arts
+Actor;Performing Arts
+Director;Performing Arts
+Producer;Performing Arts
+Singer;Performing Arts
+Dancer;Performing Arts
+Choreographer;Performing Arts
+Music Producer;Performing Arts
+Cinematographer;Performing Arts
+DJ;Performing Arts
+Standup Comedian;Performing Arts
+Magician;Performing Arts
+Writer;Performing Arts
+Set/Costume Designer;Performing Arts
+Musical/Theatre Performer;Performing Arts
+Theatre director;Performing Arts
+BroadCasting Presenter;Performing Arts
+Dramatherapist;Performing Arts
+Orchestra Conductor;Performing Arts
+Talent Agent;Performing Arts
+Special Effects Technician;Performing Arts
+Arts Administrator;Performing Arts
+Dance/Music Therapist;Performing Arts
+Stunt Performer;Performing Arts
+Stage Manager/Stage Crew;Performing Arts
+Pantomime;Performing Arts
+Puppetry;Performing Arts
+Opera;Performing Arts
+Prop manager;Performing Arts
+Circus Artist;Performing Arts
+Industry Consultant;Automobile
+Automobile Engineer;Automobile
+Quality Manager;Automobile
+Electrical Engineer;Automobile
+Service Engineer;Automobile
+Diesel Mechanic;Automobile
+Technician;Automobile
+Production Trainer;Automobile
+Production Engineer;Automobile
+Production Management;Automobile
+Quality Engineeri;Automobile
+Tool design Engineer;Automobile
+Commercial Pilot;Aviations
+ATC;Aviations
+Certified Trainer;Aviations
+Aerospace Engineer;Aviations
+Technician;Aviations
+Flight Attendant;Aviations
+Cargo Handling Supervisor;Aviations
+Airfield Operations Specialist;Aviations
+Aircraft Assemblers;Aviations
+Aviations Inspectors;Aviations
+Avionics Technicians;Aviations
+Financial Accountant;Banking and Financial Services
+Financial Planner;Banking and Financial Services
+Financial Analyst;Banking and Financial Services
+Business Analyst;Banking and Financial Services
+Bank Teller;Banking and Financial Services
+Accountant Technician;Banking and Financial Services
+Bank Manager;Banking and Financial Services
+Chartered Public Finance Accountant;Banking and Financial Services
+Customer Service Manager;Banking and Financial Services
+Investment Banker;Banking and Financial Services
+Financial Consultant;Banking and Financial Services
+Stock Broker;Banking and Financial Services
+Plant Bio-chemist;Basic and Applied Sciences
+Clinical Research Specialist;Basic and Applied Sciences
+Biology Researcher;Basic and Applied Sciences
+Academia;Basic and Applied Sciences
+Space Research Institutes;Basic and Applied Sciences
+Pharmaceutical Chemist;Basic and Applied Sciences
+Forest Services;Basic and Applied Sciences
+Chemical Industry;Basic and Applied Sciences
+Bio-Technology;Basic and Applied Sciences
+Agriculture;Basic and Applied Sciences
+Petroleum;Basic and Applied Sciences
+Pharmaceutical Engineer;Basic and Applied Sciences
+Medical Researcher;Basic and Applied Sciences
+Therapy;Basic and Applied Sciences
+Cosmetics;Basic and Applied Sciences
+Geology;Basic and Applied Sciences
+Manufacturing and Processing;Basic and Applied Sciences
+Laboratories;Basic and Applied Sciences
+Seed and Nursing;Basic and Applied Sciences
+Wildlife and Fishery;Basic and Applied Sciences
+Clinical/Laboratory Technicians;Basic and Applied Sciences
+Environmental Consultants;Basic and Applied Sciences
+Science Advisory;Basic and Applied Sciences
+Dermatologist;Beauty/Fitness/Lifestyle
+Beautician;Beauty/Fitness/Lifestyle
+Nutritionist;Beauty/Fitness/Lifestyle
+Dietician;Beauty/Fitness/Lifestyle
+Aesthetician;Beauty/Fitness/Lifestyle
+Trainers and Lecturers;Beauty/Fitness/Lifestyle
+Cosmetologist;Beauty/Fitness/Lifestyle
+Hair Stylist;Beauty/Fitness/Lifestyle
+Make up artist;Beauty/Fitness/Lifestyle
+Microbiologist;Bio-Technology
+Agriculture and Food Scientist/Technologist;Bio-Technology
+Process Development Scientist;Bio-Technology
+Genetic Engineering;Bio-Technology
+Medical Equipments Manufacturing;Bio-Technology
+Medicine;Bio-Technology
+Chemical Industry;Bio-Technology
+Academia;Bio-Technology
+Agricultural Engineer;Bio-Technology
+Animal Scientist;Bio-Technology
+Biomedical Engineer;Bio-Technology
+Soil and Plant Scientist;Bio-Technology
+Research;Bio-Technology
+Sustainable Energy;Bio-Technology
+Animal and Environmental Scientist;Bio-Technology
+Food Safety Analyst;Bio-Technology
+Zoologists;Bio-Technology
+Epidemiologists;Bio-Technology
+Research and Development Officers;Bio-Technology
+Biochemists and Biophysicists;Bio-Technology
+Animal Husbandry;Bio-Technology
+Quality Control and Quality Analyst;Bio-Technology
+Laboratory Technicians;Bio-Technology
+Medical Advisors;Bio-Technology
+IAS;Civil Services
+IPS;Civil Services
+IFoS;Civil Services
+IFS;Civil Services
+IAAS;Civil Services
+ICAS;Civil Services
+IDAS;Civil Services
+IDES;Civil Services
+IIS;Civil Services
+ICFS;Civil Services
+IOFS;Civil Services
+IPoS;Civil Services
+IRAS;Civil Services
+IRPS;Civil Services
+IRTS;Civil Services
+IRS;Civil Services
+ITF;Civil Services
+RPF;Civil Services
+Armed Forces Head quarters - Civil Services;Civil Services
+DANICS;Civil Services
+DANIPS;Civil Services
+Civil Police Service;Civil Services
+Administrative Officer;Civil Services
+Civil Services Administrator;Civil Services
+School and Career Counselors;Community and Social Service
+Volunteer;Community and Social Service
+Behavior Analyst;Community and Social Service
+Licensed Clinical Social Worker (LCSW);Community and Social Service
+Marriage and Family Therapists;Community and Social Service
+Rehabilitation Counselors;Community and Social Service
+Criminology Specialist;Community and Social Service
+Social Security Officer;Community and Social Service
+Academia;Community and Social Service
+Social Workers (Multiple Categories in this);Community and Social Service
+Child Welfare;Community and Social Service
+Direct Service;Community and Social Service
+Gerontology;Community and Social Service
+Medical/Public Health;Community and Social Service
+Mental health;Community and Social Service
+Substance Abuse;Community and Social Service
+Medical;Community and Social Service
+Healthcare;Community and Social Service
+Geriatric (Aged Care);Community and Social Service
+Military;Community and Social Service
+Corrections (For prisoners);Community and Social Service
+Disability Care;Community and Social Service
+Health Educator;Community and Social Service
+Community Health Worker;Community and Social Service
+NGO workers;Community and Social Service
+Youth Serving Organisations;Community and Social Service
+Medical Clinics;Community and Social Service
+Nursing Homes;Community and Social Service
+Labour Welfare Specialist;Community and Social Service
+Juvenile court liaison;Community and Social Service
+Community Outreach Worker;Community and Social Service
+Behavioral Management Aide;Community and Social Service
+Paralegal;Community and Social Service
+Arbitrator;Community and Social Service
+Charity Fundraiser;Community and Social Service
+Charity Officer;Community and Social Service
+Child Psychotherapist;Community and Social Service
+Community Education Officer;Community and Social Service
+Community Art Worker;Community and Social Service
+Community Development Officer;Community and Social Service
+Engineers;Construction
+Architects and Surveyors;Construction
+Building inspectors;Construction
+Project Managers and Surveyors;Construction
+Contractors;Construction
+Builders;Construction
+Insulation Contractors;Construction
+Solar Installers;Construction
+Glaziers;Construction
+Elevator Installers;Construction
+Masons;Construction
+Plumbers;Construction
+Electricians;Construction
+Carpenters;Construction
+Iron Workers;Construction
+Roofers;Construction
+Floor Installers;Construction
+Crane Operator;Construction
+Heavy Equipment operator;Construction
+Counselling;Consulting and Counselling
+Marriage, Couple, and Family;Consulting and Counselling
+Addiction;Consulting and Counselling
+Rehabilitation;Consulting and Counselling
+School;Consulting and Counselling
+Career;Consulting and Counselling
+Consulting;Consulting and Counselling
+Career;Consulting and Counselling
+Student Affairs and College;Consulting and Counselling
+Software;Consulting and Counselling
+Strategy;Consulting and Counselling
+Operations;Consulting and Counselling
+Financial Advisory;Consulting and Counselling
+Human Resources;Consulting and Counselling
+Risk & Compliance;Consulting and Counselling
+IT;Consulting and Counselling
+Business;Consulting and Counselling
+Environmental;Consulting and Counselling
+Sales;Consulting and Counselling
+Marketing;Consulting and Counselling
+Financial;Consulting and Counselling
+Image;Consulting and Counselling
+Social Media;Consulting and Counselling
+Property;Consulting and Counselling
+Property;Consulting and Counselling
+Land Surveyor;Consulting and Counselling
+Gerontological Counseling;Consulting and Counselling
+Pastoral Counseling;Consulting and Counselling
+Genetic counsellor;Consulting and Counselling
+Corporate Communicator;Consulting and Counselling
+Expressive Arts Therapy;Consulting and Counselling
+Army;Defense
+Navy;Defense
+Airforce;Defense
+Operations Specialist;Defense
+Army Linguist;Defense
+Coast Guard;Defense
+Intelligence;Defense
+BSF;Defense
+CRPF;Defense
+Graphic Designing;Designing
+Illustrator;Designing
+Web Designing;Designing
+Interior Designing;Designing
+UI/UX Designing;Designing
+Fashion Designing;Designing
+Creative Designing;Designing
+Automobile Designing;Designing
+Product Designing;Designing
+Architectural Designing;Designing
+Industrial Designing;Designing
+Video Game Designing;Designing
+Textile Designing;Designing
+Architect;Designing
+Footwear Designer;Designing
+Furniture Designer;Designing
+Gemologist;Designing
+Multimedia and Animator Artist;Designing
+Film and Video Editor;Designing
+Interactive Design;Designing
+Motion Graphics Designer;Designing
+Exhibition Designer;Designing
+Lifestyle Accessory Designer;Designing
+Toy and Game Designer;Designing
+Floral Designer;Designing
+Landscape Architect;Designing
+Sculptor;Designing
+Wedding planner;Designing
+Ceramic Designer;Designing
+Costume Designer;Designing
+Economist;Economics
+Financial Economist;Economics
+Financial Risk Analyst;Economics
+Financial Planner;Economics
+Market Research Analyst;Economics
+Cost Accountant;Economics
+Economics Teacher;Economics
+Financial Consultant;Economics
+Investment Analyst;Economics
+Actuary;Economics
+Industrial Economist;Economics
+Agricultural Economist;Economics
+Budget Analyst;Economics
+Kindergarten Teacher;Education and Training
+Primary School Teacher;Education and Training
+Secondary School Teacher;Education and Training
+Senior Secondary School Teacher;Education and Training
+Professor;Education and Training
+Principal;Education and Training
+School Managers;Education and Training
+Clinical Psychologist;Education and Training
+Counselors;Education and Training
+Sports Trainers;Education and Training
+Fitness and Wellness Coach;Education and Training
+Interpreter/Translator;Education and Training
+Aerospace Avionics Engineering;Electronics
+CAD Technician - Done;Electronics
+Broadcast Engineering;Electronics
+Network Engineer;Electronics
+Nuclear Engineer;Electronics
+Special Effects Technician;Electronics
+Multimedia Programmer;Electronics
+Machine Learning;Electronics
+Control and Instrumentation;Electronics
+Wireless Communication;Electronics
+Analog and Digital Electronics;Electronics
+VLSI Industry;Electronics
+Internet of Things;Electronics
+Robotics;Electronics
+Mechatronics;Electronics
+Embedded Systems;Electronics
+Image Processing;Electronics
+Aeronautical;Engineering
+Mechanical;Engineering
+Automobile;Engineering
+Bio-Technology;Engineering
+Chemical;Engineering
+Civil;Engineering
+Computer;Engineering
+Electrical;Engineering
+Electronics;Engineering
+IT;Engineering
+Textile;Engineering
+Production;Engineering
+Instrumentation;Engineering
+Telecommunication;Engineering
+Material Scientists;Engineering
+Robotics;Engineering
+Nuclear;Engineering
+Marine;Engineering
+Agricultural Engineer;Engineering
+Aircraft Maintenance Engineer;Engineering
+Mining and Metallurgical Engineer;Engineering
+Petroleum Engineer;Engineering
+Rubber and Leather Engineer;Engineering
+BiochemicalEngineer;Engineering
+Biomedical Engineer;Engineering
+Environmental Engineer;Engineering
+Food Technology Engineer;Engineering
+Industrial Engineer;Engineering
+Manufacturing Technologists;Engineering
+Oil Technologist;Engineering
+Plastic Technologists;Engineering
+Paint Engineer;Engineering
+Sales Engineer;Engineering
+Ceramic Engineer;Engineering
+Polymer Engineer;Engineering
+Optical Engineer;Engineering
+Pulp and Paper Engineer;Engineering
+Choreography;Entertainment
+Animation;Entertainment
+Acting;Entertainment
+Direction;Entertainment
+Musician;Entertainment
+Production Designer;Entertainment
+Cinematographer;Entertainment
+Illustrator;Entertainment
+Production;Entertainment
+Make-up artist;Entertainment
+Art Director;Entertainment
+Costume Designer;Entertainment
+Film Hair Stylist;Entertainment
+Writer;Entertainment
+Script Writer;Entertainment
+Dialogue writer;Entertainment
+Lyrics;Entertainment
+Sound;Entertainment
+Stunt performer;Entertainment
+Set Designer;Entertainment
+Publicist;Entertainment
+Mixing Engineer;Entertainment
+Voice Actor;Entertainment
+Recording Engineer;Entertainment
+RJ;Entertainment
+Sound Effects Editor;Entertainment
+Entertainment Attorney;Entertainment
+Music Publisher;Entertainment
+Licensing Representatives;Entertainment
+Music Therapist;Entertainment
+Dialect Coach;Entertainment
+Song Plugger;Entertainment
+A&R Coordinators;Entertainment
+Studio Chief;Entertainment
+Television Producer;Entertainment
+Television Editor;Entertainment
+Location Manager;Entertainment
+Prop maker;Entertainment
+Development Executive;Entertainment
+Booking Coordinator;Entertainment
+Session Singer;Entertainment
+Production Accountants;Entertainment
+Foley Artist;Entertainment
+Teacher On-Set;Entertainment
+Event Planner;Event Planning
+Wedding Planner;Event Planning
+Creative Planner/ Designer;Event Planning
+Marketing or Communications Manager;Event Planning
+Public Relations;Event Planning
+Event Space or Venue Managers;Event Planning
+Donor or Sponsorship Coordinator;Event Planning
+Catering Services Manager;Event Planning
+Event Social Media Coordinator / Marketing;Event Planning
+Staff or Volunteer Coordinator;Event Planning
+Event coordinator;Event Planning
+Tourist event coordinator;Event Planning
+Fashion event coordinator;Event Planning
+Sport event coordinator;Event Planning
+Facilities manager;Event Planning
+Charity Fundraiser;Event Planning
+Conference Organizer;Event Planning
+Fashion Designer;Fashion
+Model;Fashion
+Fashion Consultant;Fashion
+Fashion Blogger;Fashion
+Fashion Technology;Fashion
+Textile Designer;Fashion
+Fashion Photography;Fashion
+Accessories Designer;Fashion
+Fashion Merchandiser;Fashion
+Makeup Artist;Fashion
+Stylist;Fashion
+Jewellery Designer;Fashion
+Accessory Designer;Fashion
+Shoe Designer;Fashion
+Creative Head for Fashion Boutique/ set designer;Fashion
+Luxury Brand Management;Fashion
+Fashion Business Management;Fashion
+Dress Maker;Fashion
+Needleworker;Fashion
+Pattern Maker;Fashion
+Tailor;Fashion
+Social Media Marketing of Fashion and Clothing;Fashion
+Fashion Products Retailer:;Fashion
+Creative Advertisement Maker;Fashion
+Food Blogger;Food
+Chefs and Head Cooks;Food
+Dietician;Food
+Craft Brewer;Food
+Technical Brewer;Food
+Health Coach;Food
+Food Technologist;Food
+Food Scientist/Flavour Developers;Food
+Food Historians;Food
+Food and Drug inspector;Food
+Nutritional Therapist;Food
+Quality Assurance manager/Food Inspector;Food
+Purchasing/Procurement Manager;Food
+Toxicologist;Food
+BioChemist/Organic Chemist;Food
+Bartender;Food
+Restaurant Manager;Food
+Food Photographer;Food
+Culinary Librarian;Food
+UrbanFarmer;Food
+Cookbook Author;Food
+Technical Brewer;Food
+Home Economist;Food
+Food Product Development Director;Food
+Baker;Food
+Baristas \;Food
+Butchers and Meat Cutters;Food
+Gynecology;Healthcare/Medical
+Radiography;Healthcare/Medical
+Surgeon (Multiple Types);Healthcare/Medical
+Pathology (Multiple Types);Healthcare/Medical
+Neurology (Various Types);Healthcare/Medical
+Audiologist;Healthcare/Medical
+Genetics;Healthcare/Medical
+Ayurveda;Healthcare/Medical
+Dentist;Healthcare/Medical
+Forensic Scientist;Healthcare/Medical
+Nutritionist;Healthcare/Medical
+Microbiology;Healthcare/Medical
+Homeopathy;Healthcare/Medical
+Physician Doctor;Healthcare/Medical
+Physiotherapy;Healthcare/Medical
+Optician;Healthcare/Medical
+Anesthesiology;Healthcare/Medical
+Dermatology;Healthcare/Medical
+Dietician;Healthcare/Medical
+Pediatrics;Healthcare/Medical
+Psychiatrist (Various Types);Healthcare/Medical
+Nursing;Healthcare/Medical
+Ophthalmology;Healthcare/Medical
+Speech Therapy;Healthcare/Medical
+Veterinary Science;Healthcare/Medical
+Yoga;Healthcare/Medical
+Optometry;Healthcare/Medical
+Fitness Trainer;Healthcare/Medical
+Health educator;Healthcare/Medical
+Electropathy;Healthcare/Medical
+Medical Lab Technologist;Healthcare/Medical
+Naturopathy;Healthcare/Medical
+Occupational Therapist;Healthcare/Medical
+Orthopedics;Healthcare/Medical
+Pharmacognosy;Healthcare/Medical
+Pharmacovigilance;Healthcare/Medical
+Pharmacist;Healthcare/Medical
+Sports Medicine;Healthcare/Medical
+Allergy and Immunology \;Healthcare/Medical
+Diagnostic Radiology;Healthcare/Medical
+Medicine Genetics;Healthcare/Medical
+Obstetrics;Healthcare/Medical
+Rehabilitation;Healthcare/Medical
+Urologyy;Healthcare/Medical
+Endicrinologist;Healthcare/Medical
+Cardiologist;Healthcare/Medical
+Emergency Medicine Specialist;Healthcare/Medical
+Gastroenterologists;Healthcare/Medical
+Osteopaths;Healthcare/Medical
+Oncologists;Healthcare/Medical
+Podiatrists;Healthcare/Medical
+Pulmonologists;Healthcare/Medical
+Rheumatologists;Healthcare/Medical
+Economists;Humanities
+Psychiatrists;Humanities
+Psychologists;Humanities
+Sociologists;Humanities
+Archaeologists;Humanities
+Anthropologists;Humanities
+Historians;Humanities
+Pathologists (Various types);Humanities
+Social Workers;Humanities
+Life Skill Trainer;Humanities
+Elder Care Services;Humanities
+Research Assistant;Humanities
+Corporate Trainers;Humanities
+NGO Management;Humanities
+Speech Pathologists;Humanities
+Anthropology Archaelogy Academia;Humanities
+Audiologist;Humanities
+Biologist;Humanities
+Securities Analyst;Insurance and Investments
+Fund Manager;Insurance and Investments
+Market Research Analyst;Insurance and Investments
+Clamis Adjuster;Insurance and Investments
+Investment Professionals.;Insurance and Investments
+Actuaries.;Insurance and Investments
+Stock Broker;Insurance and Investments
+Bank Probationary Officer;Insurance and Investments
+Clerk Cum Cashier;Insurance and Investments
+Insurance Agent;Insurance and Investments
+Foreign Exchange Clerk;Insurance and Investments
+Insurance Surveyors.;Insurance and Investments
+Insurance Underwriter.;Insurance and Investments
+Data System Manager;Insurance and Investments
+Training Manager;Insurance and Investments
+Loss Control Specialist;Insurance and Investments
+Field Representative;Insurance and Investments
+Customer Service/Business Operations;Insurance and Investments
+Risk management;Insurance and Investments
+Security Research;Insurance and Investments
+Proprietary Trading Activities;Insurance and Investments
+Liasioning with Client;Insurance and Investments
+Bridging Loans;Insurance and Investments
+Portfolio Manager;Insurance and Investments
+IT Scientist;IT
+Softwar Engineer;IT
+System Architect;IT
+Technical Writer;IT
+Web Developer;IT
+App Developer;IT
+Recovery Specialist;IT
+ITES;IT
+Communications;IT
+Astronomer;IT
+Geo Scientist;IT
+Cyber Security Analyst;IT
+Data Analyst;IT
+Bio-Informatics Scientist;IT
+Bio-Informatics Technician;IT
+BioStatstician;IT
+Business (Corporate Law);Legal
+Civil Rights Law;Legal
+Family Law;Legal
+Criminal Law;Legal
+Environmental and Natural Resources Law;Legal
+International Law;Legal
+Real Estate Law;Legal
+Intellectual Property Law;Legal
+Constitutional Law;Legal
+Taxation Law;Legal
+Legal Academia;Legal
+Entertainment Law;Legal
+Banking and Finance Law;Legal
+Judge, Adjudicator, Hearing Officer;Legal
+Arbitrators Mediators Conciliators;Legal
+Political Scientist;Life, Physical and Social Sciences
+Economist;Life, Physical and Social Sciences
+Sociologist;Life, Physical and Social Sciences
+Geographer;Life, Physical and Social Sciences
+Psychologist;Life, Physical and Social Sciences
+Anthropologist and Archeologist;Life, Physical and Social Sciences
+Historian;Life, Physical and Social Sciences
+Immunologist;Life, Physical and Social Sciences
+Food Scientist;Life, Physical and Social Sciences
+Agronomist;Life, Physical and Social Sciences
+Biophysicist;Life, Physical and Social Sciences
+Epidemiologist;Life, Physical and Social Sciences
+Industrial-Organizational Psychologist;Life, Physical and Social Sciences
+Urban and Regional Planner;Life, Physical and Social Sciences
+Survey Researcher;Life, Physical and Social Sciences
+Horticulturist;Life, Physical and Social Sciences
+Paleontologist;Life, Physical and Social Sciences
+Researcher;Life, Physical and Social Sciences
+Civil Service Careers;Life, Physical and Social Sciences
+Advice worker;Life, Physical and Social Sciences
+Charity Officer;Life, Physical and Social Sciences
+Community Education Officer;Life, Physical and Social Sciences
+Equality & Diversity Officer;Life, Physical and Social Sciences
+Family Support Worker;Life, Physical and Social Sciences
+Immigration, Customs and Border roles;Life, Physical and Social Sciences
+Intelligence Analyst;Life, Physical and Social Sciences
+Mediator;Life, Physical and Social Sciences
+Legal Careers;Life, Physical and Social Sciences
+Prison & Probation officer;Life, Physical and Social Sciences
+International Aid worker;Life, Physical and Social Sciences
+Substance Misue Worker;Life, Physical and Social Sciences
+Volunteer Co-ordinator;Life, Physical and Social Sciences
+Youth Worker;Life, Physical and Social Sciences
+Astronomer;Life, Physical and Social Sciences
+Energy Auditor;Life, Physical and Social Sciences
+Chromatographer;Life, Physical and Social Sciences
+Conservationist;Life, Physical and Social Sciences
+Environmentalist;Life, Physical and Social Sciences
+Geo scientist;Life, Physical and Social Sciences
+Hydrologist;Life, Physical and Social Sciences
+Meteorologist;Life, Physical and Social Sciences
+Natural Resource Manager;Life, Physical and Social Sciences
+Wildlife environmnet Manager;Life, Physical and Social Sciences
+Ocean Environmentalist;Life, Physical and Social Sciences
+Woodlands Manager;Life, Physical and Social Sciences
+Wildlife Professional;Life, Physical and Social Sciences
+Sound technician;Life, Physical and Social Sciences
+Sustainable Living Scientist;Life, Physical and Social Sciences
+Zoology;Life, Physical and Social Sciences
+Botany;Life, Physical and Social Sciences
+HR Manager;Management
+Marketing Manager;Management
+Finance;Management
+Advertising Manager;Management
+Social Media Manager;Management
+Operations Manager;Management
+PR Manager;Management
+Media;Management
+Communication Services;Management
+Retail Manager;Management
+Corporate Trainer;Management
+Visual Merchandiser;Management
+Logistics Manager;Management
+Import Export Manager;Management
+Disaster Manager;Management
+Investment Manager;Management
+Inustrial Safety Manager;Management
+Business Academia;Management
+Call Centre Management;Management
+Art Gallery Manager;Management
+Adhesive Machine Operators;Manufacturing
+Business Analyst;Marketing
+HR Management;Marketing
+Market Research Analyst;Marketing
+PR Executive/Manager;Marketing
+Academia;Marketing
+Advertisement;Marketing
+Event Management;Marketing
+CMO;Marketing
+Digital Marketing;Marketing
+Social Media Manager;Marketing
+Business Advisor;Marketing
+Marketing Manager;Marketing
+Brand Management;Marketing
+Telemarketer;Marketing
+Media Buyer;Marketing
+Sports Marketing;Marketing
+Promotions;Marketing
+Admission Representative;Marketing
+Fundraising events;Marketing
+Sales Representative;Marketing
+Web Content Manager;Marketing
+Advertising Sales Agent;Marketing
+Budget Analyst;Marketing
+Business Academia;Marketing
+Anchor;BroadCast Media
+Journalist;BroadCast Media
+News Reader;BroadCast Media
+Video Editor;BroadCast Media
+Animator;BroadCast Media
+Camera Man;BroadCast Media
+Photo/Video Journalist;BroadCast Media
+Content Writer;BroadCast Media
+Social Media Manager;BroadCast Media
+Online Advertising Manager;BroadCast Media
+Social Media Manager;BroadCast Media
+Radio Show Host;BroadCast Media
+Radio Show Technician;BroadCast Media
+Talk Show Host;BroadCast Media
+Producer;BroadCast Media
+Graphics Artist;BroadCast Media
+News Writer;BroadCast Media
+Studio Engineer;BroadCast Media
+Voice Over Artist;BroadCast Media
+Editor;BroadCast Media
+Audio/Video Technologist;BroadCast Media
+Market Researcher;BroadCast Media
+Interpreter/Translator;BroadCast Media
+Sound Engineer;BroadCast Media
+Art Director;BroadCast Media
+Advertising Sales Agent;BroadCast Media
+News Analyst;BroadCast Media
+Broadcast Technician;BroadCast Media
+Editor (Multiple Types);Print Media
+Reporter;Print Media
+Copywriter;Print Media
+Columnist;Print Media
+Writer;Print Media
+PR Manager;Print Media
+Correspondent;Print Media
+Photographer;Print Media
+Artist;Print Media
+Cartoonist;Print Media
+Caricaturist;Print Media
+Photojournalist;Print Media
+Layouting Artist;Print Media
+Printer;Print Media
+Production Artist;Print Media
+Visualiser;Print Media
+Creative Director;Print Media
+Blogger;Internet Media
+Youtuber;Internet Media
+Meme Makers;Internet Media
+Market Research Analyst;Internet Media
+Social Media Influencers (Multiple Choices in this);Internet Media
+Content Curators;Internet Media
+Content Writers;Internet Media
+Editors;Internet Media
+Video Editors;Internet Media
+AV Engineers;Internet Media
+PR managers;Internet Media
+Online Marketing Experts;Internet Media
+Graphic Designer;Internet Media
+Medical Lab Technician;Pathology
+Cytotechnologist;Pathology
+Anatomical Pathhology;Pathology
+Dermatopathology;Pathology
+Histopathology;Pathology
+Neuropathology;Pathology
+Pulmonary Pathology;Pathology
+Clinical Pathology;Pathology
+Chemical Pathology;Pathology
+Academia;Pharmaceuticals
+Pathology;Pharmaceuticals
+Research Scientists;Pharmaceuticals
+Research and Developer Manager;Pharmaceuticals
+Regulatory and Patenting Department;Pharmaceuticals
+Pharmacy;Pharmaceuticals
+Science Writer;Pharmaceuticals
+Nuclear Pharmacist;Pharmaceuticals
+Biopharmaceutics;Pharmaceuticals
+Pharmacologist;Pharmaceuticals
+Pharmacognosy;Pharmaceuticals
+Chemists;Pharmaceuticals
+Toxicologists;Pharmaceuticals
+Microbiologists;Pharmaceuticals
+Genetics;Pharmaceuticals
+Pharmacognosy;Pharmaceuticals
+Phytopharmaceuticals and Natural prducts;Pharmaceuticals
+Real estate managing broker;Real Estate
+Commercial real estate agent;Real Estate
+Real estate investor;Real Estate
+Residential appraiser;Real Estate
+Commercial appraiser;Real Estate
+Property manager;Real Estate
+Leasing consultant;Real Estate
+Commercial leasing manager;Real Estate
+Real Estate Assesors;Real Estate
+Brokerage Clerks;Real Estate
+Real Estate Surveyor;Real Estate
+Retail Loss Prevention Specialists;Retail
+Retail Sales Consultant;Retail
+Retail Sales/Customer Service Associate;Retail
+Advertising;Sales
+Loan;Sales
+Insurance;Sales
+Purchasing;Sales
+Real Estate;Sales
+Security and Commodities;Sales
+Travel and Tourism;Sales
+Manufacturing;Sales
+#NAME?;Science and Technology
+Agriculture &Food Technologist;Science and Technology
+Genetic Engineering;Science and Technology
+Medical Equipments Designing;Science and Technology
+Pharmaceutical;Science and Technology
+Animal Scientist;Science and Technology
+Biomedical Engineer;Science and Technology
+Food Safety Analyst;Science and Technology
+Zoologists;Science and Technology
+Biochemists;Science and Technology
+Animal Husbandry;Science and Technology
+Quality Control / Quality Analyst;Science and Technology
+Laboratory Technician;Science and Technology
+Forensic Science Technician;Science and Technology
+Computer and Information Research Scientist;Science and Technology
+Biotechnologist;Science and Technology
+Biological Science / Natural Science;Science and Technology
+Agriculture Engineer;Science and Technology
+Soil and Plant Scientist;Science and Technology
+Process Development;Science and Technology
+Research;Science and Technology
+Medicine;Science and Technology
+Epidemiologist;Science and Technology
+Bio-Physict;Science and Technology
+Hardware Engineer;Science and Technology
+Information Security Analyst;Security
+Malware Analyst;Security
+Cyber Crime Investigator;Security
+Network Security Engineers;Security
+Chief Information Security Officer;Security
+Security Architect/Consultant;Security
+Ethical Hacker;Security
+Forensic Expert;Security
+Cryptographer;Security
+Loss Prevention Specialist;Security
+Information Systems Security;Security
+Personnel Security;Security
+Critical Infrastructure/Homeland Security;Security
+Physical Security;Security
+Couter Terrorism Officer;Security
+Corrections Administration;Security
+Fire Safety Officer;Security
+Private Investigator;Security
+Leisure and Hospitality;Services
+Financial Services;Services
+Media and Communication;Services
+Management business and financial operations;Services
+Travel and Tourism;Services
+Office and Administrative Support;Services
+Book keeping/accounting/auditing;Services
+Customer Service Representative (BPO/ITES);Services
+Receptionist and clerks;Services
+Secretary and Administrative Support;Services
+Data Entry operators;Services
+Service Operations;Services
+Nursing;Services
+Orderlies;Services
+Attendants;Services
+Food preparation and related services;Services
+Athlete/Sportsperson;Sports
+Umpire/Referee (Regulatory body);Sports
+Coach;Sports
+Sports Managers;Sports
+Commentator;Sports
+Sports broadcasting;Sports
+Sportscaster;Sports
+Sports News Reporter;Sports
+Radio Sports Producer;Sports
+Sports Writer;Sports
+Sports Photographer;Sports
+Sports Talk Show Host;Sports
+Sports Columnist;Sports
+Editor;Sports
+Sports News Reporter, Sports Talk Show Host;Sports
+Sports Therapist/Development Officer;Sports
+Physiotherapist/Sports Medicine/ sports psychologist;Sports
+Sports and Fitness Nutritionist, Fitness Coach/Dietician;Sports
+Exercise Physiologist;Sports
+Management jobs in sports industry(mainly for big tournaments);Sports
+Olympic Games Coordination - EX;Sports
+Relations with other organizations;Sports
+Finance;Sports
+Marketing;Sports
+Legal Affairs;Sports
+Technology;Sports
+Operations;Sports
+Communications;Sports
+Medical staff;Sports
+Telecom Engineer;Telecommunications
+Telecom Project Manager;Telecommunications
+Data Analyst;Telecommunications
+Telecom Specialist;Telecommunications
+Telecom Researcher;Telecommunications
+Hardware Design Engineer;Telecommunications
+Network Designer;Telecommunications
+Radio Frequency Engineer;Telecommunications
+Network Manager;Telecommunications
+Customer Service;Telecommunications
+Equipment Installer and Repair;Telecommunications
+Pattern And Template Maker;Textile
+Textile Designer;Textile
+Fabric Technologists;Textile
+Fashion Merchandiser;Textile
+Designer;Textile
+Printing Specialists;Textile
+Ornamentalist;Textile
+Tie and Die Specialist;Textile
+Cabin Crew;Travel Tourism and Hospitality
+Chef;Travel Tourism and Hospitality
+Hotel/Casino/Spa Managers;Travel Tourism and Hospitality
+Catering Managers;Travel Tourism and Hospitality
+Interpreters and Translators;Travel Tourism and Hospitality
+Marine Engineers;Travel Tourism and Hospitality
+Tourist Guide;Travel Tourism and Hospitality
+Video Jockey;Travel Tourism and Hospitality
+Tour Operator;Travel Tourism and Hospitality
+Health Tourism;Travel Tourism and Hospitality
+Adventure Tourism;Travel Tourism and Hospitality
+Holiday Consultant;Travel Tourism and Hospitality
+Dieticians;Travel Tourism and Hospitality
+Food Stylists;Travel Tourism and Hospitality
+Event Planners;Travel Tourism and Hospitality
+Sports Management;Travel Tourism and Hospitality
+Accomodations Manager;Travel Tourism and Hospitality
+Care Managers;Travel Tourism and Hospitality

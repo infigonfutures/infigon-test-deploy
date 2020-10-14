@@ -1,0 +1,58 @@
+Accounting
+Aerospace
+Agriculture/Forestry
+Aquaculture
+Architecture
+Fine Arts
+Visual Arts
+Performing Arts
+Automobile
+Aviations
+Banking and Financial Services
+Basic and Applied Sciences
+Beauty/Fitness/Lifestyle
+Bio-Technology
+Business Operations
+Civil Services
+Community and Social Service
+Construction
+Consulting and Counselling
+Customer Service
+Defense
+Designing
+Ecommerce
+Economics
+Education and Training
+Electronics
+Engineering
+Entertainment
+Event Planning
+Fashion
+Food
+Healthcare/Medical
+Humanities
+Insurance and Investments
+IT
+Legal
+Life, Physical and Social Sciences
+Logistics
+Management
+Manufacturing
+Marine
+Marketing
+BroadCast Media
+Print Media
+Internet Media
+Office and Administration
+Pathology
+Pharmaceuticals
+Real Estate
+Retail
+Sales
+Science and Technology
+Security
+Services
+Sports
+Telecommunications
+Textile
+Travel Tourism and Hospitality
