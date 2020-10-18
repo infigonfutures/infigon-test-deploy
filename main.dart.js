@@ -72471,7 +72471,7 @@ $1:function(a){return new M.cV(null)},
 $S:13}
 F.Gx.prototype={
 w:function(a,b){var s=null
-return S.aus(new F.x2(s),X.a4F(s,s,s,"Poppins",C.i,s,X.aJ7()),"Flutter Demo")}}
+return S.aus(new F.x2(s),X.a4F(s,s,s,"Poppins",C.i,s,X.aJ7()),"Infigon Futures")}}
 F.x2.prototype={
 J:function(){return new F.Nk(C.r)}}
 F.Nk.prototype={
