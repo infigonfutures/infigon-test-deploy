@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "118ea8f4f9982a52a72c0c3b5b53d543",
+  "assets/AssetManifest.json": "1f4db4dcf7ceb07e40425fd6f0c8432c",
 "assets/assets/arts.txt": "1b752e71290b1ecfeea3f040bb0b02f2",
 "assets/assets/big5.txt": "e82dbbb46385bd815489ff123e2a4f35",
 "assets/assets/blogtemp/a.png": "bcfd22c140fc8f871091931c9ae77a08",
@@ -54,6 +54,22 @@ const RESOURCES = {
 "assets/assets/Images/arrow.png": "fdf83f6780716dfed24cf261bc4b3aac",
 "assets/assets/Images/background.jpg": "e5afadd9122a324823af8c70f55ab669",
 "assets/assets/Images/bg.jpg": "417e7882cc10d3c6c553538e4b548d6b",
+"assets/assets/Images/blog%2520images/1.jpg": "5ed32b89fbc2950646ad58bb708ccb2a",
+"assets/assets/Images/blog%2520images/10.jpg": "ac3fc32a0bff1b400cb6ff69e2eb76d9",
+"assets/assets/Images/blog%2520images/11.jpg": "c8e7a376c60adef7a94291a8d5e48ba8",
+"assets/assets/Images/blog%2520images/12.png": "7fa406e2e74839f260b326da188e9cad",
+"assets/assets/Images/blog%2520images/13.jpg": "223bf029823d3f32049c5aad6a19f45e",
+"assets/assets/Images/blog%2520images/14.jpg": "15ede09db33e43b0c1f25b0d004bb9ae",
+"assets/assets/Images/blog%2520images/15.jpeg": "f38dbf7e84ec8272a897dc47b9c8007e",
+"assets/assets/Images/blog%2520images/16.jpg": "955a06bcb691b68604b0524dc70bff60",
+"assets/assets/Images/blog%2520images/2.jpg": "e9004b261f54100eb6a06ba9d735aee4",
+"assets/assets/Images/blog%2520images/3.png": "10b6c4570386bad13fe80949c844cb5c",
+"assets/assets/Images/blog%2520images/4.jpeg": "5516eb03ee4fd1bb39a8db1ea3e794f8",
+"assets/assets/Images/blog%2520images/5a.png": "9caab23cdfe753ccf73bbf03bfa07df3",
+"assets/assets/Images/blog%2520images/6.jpg": "41646b1a6663b6be9fb6bafd037eb881",
+"assets/assets/Images/blog%2520images/7.jpg": "0846268855c6b2cc49bb449f117b8e64",
+"assets/assets/Images/blog%2520images/8.jpg": "33117f4536998192be1df2670449b3b5",
+"assets/assets/Images/blog%2520images/9.jpeg": "92eb3cda091d9de1e8721dcf67bbb0ad",
 "assets/assets/Images/bounce_aero.gif": "14e2658e08e5581a2603e3c3f74b318b",
 "assets/assets/Images/business.jpg": "9849589a89e46203f9fec253eae36d76",
 "assets/assets/Images/cse.jpg": "93dce5e6a465ad323f4949f514e8cecf",
@@ -126,6 +142,8 @@ const RESOURCES = {
 "assets/assets/Images/mobile1.png": "ebe4e1ee6ddf4240438b9e21d1289fe2",
 "assets/assets/Images/mobile2.png": "ef7cdc285048333e5387117d44ebe260",
 "assets/assets/Images/mobile3.png": "4deea5a223e7dacd501ebd2dca08dfb2",
+"assets/assets/Images/modules.png": "b3ae13331e2e27b50d0a2190120e78cc",
+"assets/assets/Images/myTest.png": "891ec2778cef61e38db9b97cc159102b",
 "assets/assets/Images/playstore.png": "fd53fc3ed492c70d4db90920da79f7d3",
 "assets/assets/Images/profile.png": "94d390bc71f4fafa9750bab440553f1b",
 "assets/assets/Images/S1.png": "5d6e09e56b501ccebac7081c8ed64bd2",
@@ -182,9 +200,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "211a1a2608d41940cff6e0196074f4ca",
-"/": "211a1a2608d41940cff6e0196074f4ca",
-"main.dart.js": "bfa544e7aecd75e5f2e36778b90f8fd3",
+"index.html": "7e451118382d3ec8cc4f5dd7d05cbb78",
+"/": "7e451118382d3ec8cc4f5dd7d05cbb78",
+"main.dart.js": "20019199ee64a1c3aff3e6f6ddcb0db5",
 "manifest.json": "a7cc4f3dfb66ec26086f678d1ee0dd58"
 };
 
