@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1f4db4dcf7ceb07e40425fd6f0c8432c",
+  "assets/AssetManifest.json": "7e44c8b96f362ad818398dfdb9b96ce0",
 "assets/assets/arts.txt": "1b752e71290b1ecfeea3f040bb0b02f2",
 "assets/assets/big5.txt": "e82dbbb46385bd815489ff123e2a4f35",
 "assets/assets/blogtemp/a.png": "bcfd22c140fc8f871091931c9ae77a08",
@@ -151,6 +151,7 @@ const RESOURCES = {
 "assets/assets/Images/S3.png": "53e38ed8497d41e65203901fb95b21cc",
 "assets/assets/Images/S4.png": "00f519106db8d0c4a9e3068fd577e406",
 "assets/assets/Images/science.png": "fa783d60cdb0c77e2fdb4d951d271609",
+"assets/assets/Images/skills.png": "ee3e64d51df1242ca2a09444a039962f",
 "assets/assets/Images/socialstudies.jpg": "3e352f4c66fdcad98c3269a1b2825e6a",
 "assets/assets/Images/splash_screen.jpg": "dd2b58c0f4b472888f34ea43509cd039",
 "assets/assets/Images/study.jpg": "1cca96ebdd88cb0bb7b7c359d8485855",
@@ -189,7 +190,7 @@ const RESOURCES = {
 "assets/assets/vocational.txt": "531817edc0794c53a811ee565c39e897",
 "assets/FontManifest.json": "60124cc403c47f6e95d03e608e8f18a9",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "6218966e707b33e6906e1e7ea2cf1c31",
+"assets/NOTICES": "7ac4ce1dd1d52f96209c77a333ff703a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_google_places/assets/google_black.png": "97f2acfb6e993a0c4134d9d04dff21e2",
 "assets/packages/flutter_google_places/assets/google_white.png": "40bc3ae5444eae0b9228d83bfd865158",
@@ -200,9 +201,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "7e451118382d3ec8cc4f5dd7d05cbb78",
-"/": "7e451118382d3ec8cc4f5dd7d05cbb78",
-"main.dart.js": "20019199ee64a1c3aff3e6f6ddcb0db5",
+"index.html": "abb0b891093a9c72c73d7c57a1315b6c",
+"/": "abb0b891093a9c72c73d7c57a1315b6c",
+"main.dart.js": "025fe13ece25b0073385bacfcdab6080",
 "manifest.json": "a7cc4f3dfb66ec26086f678d1ee0dd58"
 };
 
